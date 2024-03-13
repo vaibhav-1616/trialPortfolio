@@ -1,0 +1,2 @@
+This is a random file cretaed to show the use of 
+.gitignore file.
